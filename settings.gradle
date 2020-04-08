@@ -1,0 +1,2 @@
+rootProject.name='Test Slider App'
+include ':app'
